@@ -2,7 +2,7 @@
 
 I am currently pursuing an Integrated MEng in Electrical and Computer Engineering at the National Technical University of Athens (NTUA), with a focus on Software Engineering, Computer Engineering, and Biomedical Engineering.
 
-## 🚀 Currently Working On
+## 🚀 Working On
 
 I am working on a project combining legal informatics and Artificial Intelligence, exploring how AI can support legal research and the judicial sector.
 
